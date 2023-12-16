@@ -1,0 +1,11 @@
+.Cell {
+  height: 80px; /* Increase the size of each cell */
+  width: 80px; /* Increase the size of each cell */
+  background-color: darkgray;
+  cursor: pointer;
+  border: 1px solid #fff;
+}
+
+.Cell-lit {
+  background-color: yellow;
+}
